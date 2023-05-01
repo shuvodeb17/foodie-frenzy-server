@@ -1,7 +1,7 @@
 [
   {
     "id": "645024210c2b22d13a050882",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
     "name": "Eva Caldwell",
     "experience": "5 Years",
     "numbersOfRecipes": 4,
@@ -10,7 +10,8 @@
     "recipeName": [
       "Shrimp and Grits",
       "Johnny Marzetti (A Midwest Classic)",
-      "Red Beans and Rice"
+      "Red Beans and Rice",
+      "Chocolate Chip Cookies"
     ],
     "ingredients": [
       "Fats and oils",
@@ -24,117 +25,102 @@
   },
   {
     "id": "6450242136249f884d258492",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://hendi.xcdn.nl/RM700,700/-/560044_12-2021-aj.jpg",
     "name": "Jacquelyn Holland",
     "experience": "5 Years",
     "numbersOfRecipes": 4,
     "likes": 4483,
     "description": "",
-    "recipeName": [
-      "Shrimp and Grits",
-      "Johnny Marzetti (A Midwest Classic)",
-      "Red Beans and Rice"
-    ],
+    "recipeName": ["Salisbury Steak", "Smothered Chicken", "Shrimp Creole"],
     "ingredients": [
-      "Fats and oils",
-      "Grain, nuts and baking products",
-      "Herbs and spices",
-      "Meat, sausages and fish",
-      "Pasta, rice and pulses"
+      "4 boneless, skinless chicken breasts",
+      "1/2 cup balsamic vinegar",
+      "2 tbsp honey",
+      "1 tbsp olive oil",
+      "4 cups mixed vegetables (such as bell peppers, zucchini, and cherry tomatoes)"
     ],
-    "cookingMethod": "A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy. Ingredients can include any combination of vegetables and may include meat, especially tougher meats suitable for slow-cooking, such as beef, pork, venison, rabbit, lamb, poultry, sausages, and seafood",
-    "ratings": 4.5
+    "cookingMethod": "Salisbury steak involves making seasoned beef patties using mince / ground beef, then making a mushroom gravy. In my recipe, there’s just two little things I do differently to the usual Salisbury Steak recipe that takes these up a notch",
+    "ratings": 3.1
   },
   {
     "id": "645024217775b6d4d4110b46",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJW4LGdqfVtGRY7_ZvUXUYbnvhzgmoGSPvkYKBkim2OsPip6ilUV1zLCgcZ8dzwNsOKNA&usqp=CAU",
     "name": "Mcmahon Stephens",
     "experience": "5 Years",
     "numbersOfRecipes": 4,
     "likes": 4483,
     "description": "",
-    "recipeName": [
-      "Shrimp and Grits",
-      "Johnny Marzetti (A Midwest Classic)",
-      "Red Beans and Rice"
-    ],
+    "recipeName": ["Barbecue Ribs", "Shrimp de Jonghe", "Cincinnati Chili"],
     "ingredients": [
-      "Fats and oils",
-      "Grain, nuts and baking products",
-      "Herbs and spices",
-      "Meat, sausages and fish",
-      "Pasta, rice and pulses"
+      "2 racks of baby back ribs (about 4 lbs)",
+      "1/4 cup brown sugar",
+      "1 tbsp paprika",
+      "1 tbsp garlic powder",
+      "1 tbsp onion powder"
     ],
-    "cookingMethod": "A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy. Ingredients can include any combination of vegetables and may include meat, especially tougher meats suitable for slow-cooking, such as beef, pork, venison, rabbit, lamb, poultry, sausages, and seafood",
+    "cookingMethod": "Preheat the oven to 275°F (135°C).In a small bowl, mix together brown sugar, paprika, garlic powder, onion powder, chili powder, salt, and black pepper to make a rub.Rub the spice mixture all over the ribs, making sure to cover both sides.Place the ribs on a baking sheet lined with foil, meaty side up.",
     "ratings": 4.5
   },
   {
     "id": "64502421586abf197cd4762e",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://www.touchbistro.com/wp-content/uploads/2022/03/hire-a-chef-for-your-restaurant-thumbnail.jpg",
     "name": "Lesley Irwin",
     "experience": "5 Years",
     "numbersOfRecipes": 4,
     "likes": 4483,
     "description": "",
-    "recipeName": [
-      "Shrimp and Grits",
-      "Johnny Marzetti (A Midwest Classic)",
-      "Red Beans and Rice"
-    ],
+    "recipeName": ["Squash Casserole", "Jambalaya", "Denver Omelette"],
     "ingredients": [
-      "Fats and oils",
-      "Grain, nuts and baking products",
-      "Herbs and spices",
-      "Meat, sausages and fish",
-      "Pasta, rice and pulses"
+      "4 large eggs",
+      "1/4 cup milk",
+      "Salt and black pepper, to taste",
+      "1/4 cup diced cooked ham",
+      "1/4 cup diced green bell pepper"
     ],
-    "cookingMethod": "A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy. Ingredients can include any combination of vegetables and may include meat, especially tougher meats suitable for slow-cooking, such as beef, pork, venison, rabbit, lamb, poultry, sausages, and seafood",
-    "ratings": 4.5
+    "cookingMethod": "Crack the eggs into a bowl, add milk, salt, and black pepper, and whisk together until well combined.Melt butter in a non-stick skillet over medium heat.Add diced ham, green bell pepper, and onion to the skillet, and sauté for 2-3 minutes until the vegetables are tender and the ham is lightly browned.",
+    "ratings": 3.3
   },
   {
     "id": "645024216091ef686c5dd8ba",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://media.istockphoto.com/id/1394055791/photo/portrait-of-confident-black-female-chef-at-restaurant-kitchen-looking-at-camera.jpg?b=1&s=170667a&w=0&k=20&c=2IlSPfIQtxrffNhikvF06C4KgqGnuyvV5tD0GgfR9RE=",
     "name": "Chaney Mosley",
     "experience": "5 Years",
     "numbersOfRecipes": 4,
     "likes": 4483,
     "description": "",
-    "recipeName": [
-      "Shrimp and Grits",
-      "Johnny Marzetti (A Midwest Classic)",
-      "Red Beans and Rice"
-    ],
+    "recipeName": ["Cornbread", "Yakamein", "Brunswick Stew"],
     "ingredients": [
-      "Fats and oils",
-      "Grain, nuts and baking products",
-      "Herbs and spices",
-      "Meat, sausages and fish",
+      "1 cup yellow cornmeal",
+      "1 cup all-purpose flour",
+      "1/4 cup granulated sugar",
+      "1 tbsp baking powder",
       "Pasta, rice and pulses"
     ],
-    "cookingMethod": "A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy. Ingredients can include any combination of vegetables and may include meat, especially tougher meats suitable for slow-cooking, such as beef, pork, venison, rabbit, lamb, poultry, sausages, and seafood",
-    "ratings": 4.5
+    "cookingMethod": "Preheat the oven to 400°F (200°C). Grease an 8-inch square baking dish with cooking spray or butter.In a large bowl, whisk together cornmeal, flour, sugar, baking powder, and salt until well combined.In a separate bowl, whisk together milk, eggs, and melted butter until well combined.Pour the wet ingredients into the dry ingredients and stir until just combined (don't overmix).Pour the batter into the prepared baking dish.",
+    "ratings": 2.4
   },
   {
     "id": "64502421dc89c937629f3e93",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://media.istockphoto.com/id/877309720/photo/confident-chef-standing-arms-crossed-in-kitchen.jpg?s=612x612&w=0&k=20&c=-l7AWG8KCZmaagMDLdYZL0BEqYUT7dBeUX8n-DZOKKo=",
     "name": "Karen Smith",
     "experience": "5 Years",
     "numbersOfRecipes": 4,
     "likes": 4483,
     "description": "",
     "recipeName": [
-      "Shrimp and Grits",
+      "Squash Casserole",
+      "Jambalaya",
       "Johnny Marzetti (A Midwest Classic)",
       "Red Beans and Rice"
     ],
     "ingredients": [
-      "Fats and oils",
-      "Grain, nuts and baking products",
+      "4 large eggs",
+      "1/4 cup milk",
       "Herbs and spices",
-      "Meat, sausages and fish",
+      "1 tbsp baking powder",
       "Pasta, rice and pulses"
     ],
-    "cookingMethod": "A stew is a combination of solid food ingredients that have been cooked in liquid and served in the resultant gravy. Ingredients can include any combination of vegetables and may include meat, especially tougher meats suitable for slow-cooking, such as beef, pork, venison, rabbit, lamb, poultry, sausages, and seafood",
+    "cookingMethod": "Crack the eggs into a bowl, add milk, salt, and black pepper, and whisk together until well combined. Ingredients can include any combination of vegetables and may include meat, especially tougher meats suitable for slow-cooking, such as beef, pork, venison, rabbit, lamb, poultry, sausages, and seafood",
     "ratings": 4.5
   }
 ]
