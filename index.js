@@ -11,8 +11,14 @@ const foodRecipe = require('./data/foodRecipe.json');
 app.get('/', (req, res) => {
     res.send('Hello world')
 })
-app.get('/chef', (req, res) => {
+app.get('/allChef', (req, res) => {
     res.send(foodRecipe)
+})
+
+app.get('/chef/:id', (req, res)=>{
+    const id = req.params.id;
+    const check = foodRecipe.find(chef => chef.id === id);
+    res.send(check);
 })
 
 app.listen(port, () => {
