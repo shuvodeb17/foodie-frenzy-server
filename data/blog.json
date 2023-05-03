@@ -1,0 +1,22 @@
+[
+  {
+    "id": "645277d96a51ab634f1285a0",
+    "question": "1. Differences between uncontrolled and controlled components.",
+    "ans": "Ans: In React, controlled components refer to components that have their state and behavior controlled by the parent component. These components rely on props passed down from the parent component to update their state and behavior. "
+  },
+  {
+    "id": "645277d99e4b259dcee2fc38",
+    "question": "2. How to validate React props using PropTypes",
+    "ans": "Ans: 1.PropTypes.any : The prop can be of any data type.2.PropTypes.bool : The prop should be a Boolean.3.PropTypes.number : The prop should be a number.4.PropTypes.string : The prop should be a string.5.PropTypes.func : The prop should be a function.6.PropTypes.array : The prop should be an array."
+  },
+  {
+    "id": "645277d92de01cbe97b570b7",
+    "question": "3. Difference between nodejs and express js.",
+    "ans": "Ans: Express is a minimal and flexible node. js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications. On the other hand, Node. js is detailed as .A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications"
+  },
+  {
+    "id": "645277d9f7715807dfa46654",
+    "question": "4. Custom hook, and why will you create a custom hook?",
+    "ans": "Ans: Reusability — we can use the same hook again and again, without the need to write it twice.Clean Code — extracting all the component logic into a hook will provide a cleaner codebase."
+  }
+]
